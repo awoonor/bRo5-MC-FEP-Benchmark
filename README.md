@@ -1,6 +1,6 @@
 # bRo5-MC-FEP-Benchmark
 
-> Structural datasets for the large-scale retrospective affinity prediction of 240 macrocyclic ligands across five diverse targets (KRAS, PCSK9, MCL-1, JAK2, Cyclin A/B).
+> Structural datasets for the large-scale retrospective affinity prediction of macrocyclic ligands across five diverse targets (KRAS, PCSK9, MCL-1, JAK2, Cyclin A/B).
 
 ## De-risking Affinity Optimization for Macrocycles: FEP+ Benchmark Dataset
 This repository contains the structural inputs associated with our retrospective validation of Free Energy Perturbation (FEP+) on beyond-Rule-of-5 (bRo5) macrocycles and cyclic peptides.
