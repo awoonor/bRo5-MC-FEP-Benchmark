@@ -23,7 +23,7 @@ Calculations were performed using the Schrödinger Suite (Release 2025-4). Advan
 
 ### Citation
 If you utilize this dataset for benchmarking your own force fields or free energy methodologies, please cite:
-> Awoonor-Williams et al. "De-risking Affinity Optimization for Macrocycles and Cyclic Peptides: High Precision Free Energy Simulations across Five Diverse Targets", *Submitted*, 2026.
+> Awoonor-Williams *et al.* "De-risking Affinity Optimization for Macrocycles and Cyclic Peptides: High Precision Free Energy Simulations across Five Diverse Targets", *Submitted*, 2026.
 
 ### License
 This dataset is provided under the MIT License.
