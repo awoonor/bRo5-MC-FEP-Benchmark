@@ -365,13 +365,13 @@ M  END
 7.4000000000000004
 
 >  <s_m_Source_File>  (1) 
-proteinprep_8QSO-out.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (1) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling/proteinprep_8QSO
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (1) 
-8506
+1218
 
 >  <s_m_entry_name>  (1) 
 Structure142
@@ -380,10 +380,10 @@ Structure142
 proteinprep_8QSO
 
 >  <s_m_subgroup_title>  (1) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (1) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (1) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)N[C@H](C(=O)NC)Cc1ccc(cc1)NC2
@@ -672,9 +672,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (2) 
 0
 
->  <i_f3d_flags>  (2) 
-0
-
 >  <i_lp_mmshare_version>  (2) 
 67138
 
@@ -698,6 +695,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (2) 
 2
+
+>  <i_f3d_flags>  (2) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (2) 
 1
@@ -775,13 +775,13 @@ S-OPLS
 cpd_2-1
 
 >  <s_m_Source_File>  (2) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (2) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (2) 
-8467
+1219
 
 >  <s_m_entry_name>  (2) 
 mcl1_data..2
@@ -790,10 +790,10 @@ mcl1_data..2
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (2) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (2) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (2) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)N[C@H](C(=O)NC)Cc1ccc(cc1)OC2
@@ -1035,9 +1035,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (3) 
 0
 
->  <i_f3d_flags>  (3) 
-0
-
 >  <i_lp_mmshare_version>  (3) 
 67138
 
@@ -1061,6 +1058,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (3) 
 2
+
+>  <i_f3d_flags>  (3) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (3) 
 1
@@ -1138,13 +1138,13 @@ S-OPLS
 cpd_3-1
 
 >  <s_m_Source_File>  (3) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (3) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (3) 
-8503
+1220
 
 >  <s_m_entry_name>  (3) 
 mcl1_data..3
@@ -1153,10 +1153,10 @@ mcl1_data..3
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (3) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (3) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (3) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -1410,9 +1410,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (4) 
 0
 
->  <i_f3d_flags>  (4) 
-0
-
 >  <i_lp_mmshare_version>  (4) 
 67138
 
@@ -1436,6 +1433,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (4) 
 2
+
+>  <i_f3d_flags>  (4) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (4) 
 1
@@ -1513,13 +1513,13 @@ S-OPLS
 cpd_4-1
 
 >  <s_m_Source_File>  (4) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (4) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (4) 
-8468
+1221
 
 >  <s_m_entry_name>  (4) 
 mcl1_data..4
@@ -1528,10 +1528,10 @@ mcl1_data..4
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (4) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (4) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (4) 
 CCOc1cccc2c1OC(C)(C)C(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -1767,9 +1767,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (5) 
 0
 
->  <i_f3d_flags>  (5) 
-0
-
 >  <i_lp_mmshare_version>  (5) 
 67138
 
@@ -1793,6 +1790,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (5) 
 2
+
+>  <i_f3d_flags>  (5) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (5) 
 1
@@ -1870,13 +1870,13 @@ S-OPLS
 cpd_5-1
 
 >  <s_m_Source_File>  (5) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (5) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (5) 
-8469
+1222
 
 >  <s_m_entry_name>  (5) 
 mcl1_data..5
@@ -1885,10 +1885,10 @@ mcl1_data..5
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (5) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (5) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (5) 
 COc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -2116,9 +2116,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (6) 
 0
 
->  <i_f3d_flags>  (6) 
-0
-
 >  <i_lp_mmshare_version>  (6) 
 67138
 
@@ -2142,6 +2139,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (6) 
 2
+
+>  <i_f3d_flags>  (6) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (6) 
 1
@@ -2219,13 +2219,13 @@ S-OPLS
 cpd_6-1
 
 >  <s_m_Source_File>  (6) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (6) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (6) 
-8470
+1223
 
 >  <s_m_entry_name>  (6) 
 mcl1_data..6
@@ -2234,10 +2234,10 @@ mcl1_data..6
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (6) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (6) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (6) 
 O=C1C[C@H]2CC[C@H](CC2)NC(=O)COc2c(Cl)cccc2COc2ccc(cc2)CCNC(=O)[C@@H](Cc2ccccc2)NC(=O)[C@H](c2ccccc2)N1
@@ -2505,9 +2505,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (7) 
 0
 
->  <i_f3d_flags>  (7) 
-0
-
 >  <i_lp_mmshare_version>  (7) 
 67138
 
@@ -2531,6 +2528,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (7) 
 2
+
+>  <i_f3d_flags>  (7) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (7) 
 1
@@ -2608,13 +2608,13 @@ S-OPLS
 cpd_7-1
 
 >  <s_m_Source_File>  (7) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (7) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (7) 
-8471
+1224
 
 >  <s_m_entry_name>  (7) 
 mcl1_data..7
@@ -2623,10 +2623,10 @@ mcl1_data..7
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (7) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (7) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (7) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](CC1CCCCC1)C(=O)N[C@H](C(=O)NC)Cc1ccc(cc1)OC2
@@ -2880,9 +2880,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (8) 
 0
 
->  <i_f3d_flags>  (8) 
-0
-
 >  <i_lp_mmshare_version>  (8) 
 67138
 
@@ -2906,6 +2903,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (8) 
 2
+
+>  <i_f3d_flags>  (8) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (8) 
 1
@@ -2983,13 +2983,13 @@ S-OPLS
 cpd_8-1
 
 >  <s_m_Source_File>  (8) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (8) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (8) 
-8472
+1225
 
 >  <s_m_entry_name>  (8) 
 mcl1_data..8
@@ -2998,10 +2998,10 @@ mcl1_data..8
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (8) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (8) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (8) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](CC1CCCCC1)C(=O)NCCc1ccc(cc1)OC2
@@ -3267,9 +3267,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (9) 
 0
 
->  <i_f3d_flags>  (9) 
-0
-
 >  <i_lp_mmshare_version>  (9) 
 67138
 
@@ -3293,6 +3290,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (9) 
 2
+
+>  <i_f3d_flags>  (9) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (9) 
 1
@@ -3370,13 +3370,13 @@ S-OPLS
 cpd_9-1
 
 >  <s_m_Source_File>  (9) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (9) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (9) 
-8473
+1226
 
 >  <s_m_entry_name>  (9) 
 mcl1_data..9
@@ -3385,10 +3385,10 @@ mcl1_data..9
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (9) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (9) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (9) 
 CCOc1cccc2c1OC(C)(C)C(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](CC1CCCCC1)C(=O)NCCc1ccc(cc1)OC2
@@ -3633,9 +3633,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (10) 
 0
 
->  <i_f3d_flags>  (10) 
-0
-
 >  <i_lp_mmshare_version>  (10) 
 67138
 
@@ -3659,6 +3656,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (10) 
 2
+
+>  <i_f3d_flags>  (10) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (10) 
 1
@@ -3736,13 +3736,13 @@ S-OPLS
 cpd_10-1
 
 >  <s_m_Source_File>  (10) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (10) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (10) 
-8474
+1227
 
 >  <s_m_entry_name>  (10) 
 mcl1_data..10
@@ -3751,10 +3751,10 @@ mcl1_data..10
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (10) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (10) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (10) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -4025,9 +4025,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (11) 
 0
 
->  <i_f3d_flags>  (11) 
-0
-
 >  <i_lp_mmshare_version>  (11) 
 67138
 
@@ -4051,6 +4048,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (11) 
 2
+
+>  <i_f3d_flags>  (11) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (11) 
 1
@@ -4128,13 +4128,13 @@ S-OPLS
 cpd_11-1
 
 >  <s_m_Source_File>  (11) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (11) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (11) 
-8475
+1228
 
 >  <s_m_entry_name>  (11) 
 mcl1_data..11
@@ -4143,10 +4143,10 @@ mcl1_data..11
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (11) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (11) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (11) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](CC1CCCCC1)C(=O)N[C@H](C(=O)NC)Cc1ccc(cc1)OC2
@@ -4377,9 +4377,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (12) 
 0
 
->  <i_f3d_flags>  (12) 
-0
-
 >  <i_lp_mmshare_version>  (12) 
 67138
 
@@ -4403,6 +4400,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (12) 
 2
+
+>  <i_f3d_flags>  (12) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (12) 
 1
@@ -4480,13 +4480,13 @@ S-OPLS
 cpd_12-1
 
 >  <s_m_Source_File>  (12) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (12) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (12) 
-8476
+1229
 
 >  <s_m_entry_name>  (12) 
 mcl1_data..12
@@ -4495,10 +4495,10 @@ mcl1_data..12
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (12) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (12) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (12) 
 CC(C)C[C@@H]1NC(=O)C[C@H]2CC[C@H](CC2)NC(=O)COc2c(Cl)cccc2COc2ccc(cc2)CCNC(=O)[C@@H](Cc2ccccc2)NC1=O
@@ -4751,9 +4751,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (13) 
 0
 
->  <i_f3d_flags>  (13) 
-0
-
 >  <i_lp_mmshare_version>  (13) 
 67138
 
@@ -4777,6 +4774,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (13) 
 2
+
+>  <i_f3d_flags>  (13) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (13) 
 1
@@ -4854,13 +4854,13 @@ S-OPLS
 cpd_13-1
 
 >  <s_m_Source_File>  (13) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (13) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (13) 
-8477
+1230
 
 >  <s_m_entry_name>  (13) 
 mcl1_data..13
@@ -4869,10 +4869,10 @@ mcl1_data..13
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (13) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (13) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (13) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](C(C)C)C(=O)N[C@H](Cc1ccccc1)C(=O)N[C@H](C(=O)NC)Cc1ccc(cc1)OC2
@@ -5146,9 +5146,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (14) 
 0
 
->  <i_f3d_flags>  (14) 
-0
-
 >  <i_lp_mmshare_version>  (14) 
 67138
 
@@ -5172,6 +5169,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (14) 
 2
+
+>  <i_f3d_flags>  (14) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (14) 
 1
@@ -5249,13 +5249,13 @@ S-OPLS
 cpd_14-1
 
 >  <s_m_Source_File>  (14) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (14) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (14) 
-8478
+1231
 
 >  <s_m_entry_name>  (14) 
 mcl1_data..14
@@ -5264,10 +5264,10 @@ mcl1_data..14
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (14) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (14) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (14) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](CC1CCCCC1)C(=O)N[C@H](Cc1ccccc1)C(=O)N[C@H](C(=O)NC)Cc1ccc(cc1)OC2
@@ -5547,9 +5547,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (15) 
 0
 
->  <i_f3d_flags>  (15) 
-0
-
 >  <i_lp_mmshare_version>  (15) 
 67138
 
@@ -5573,6 +5570,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (15) 
 2
+
+>  <i_f3d_flags>  (15) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (15) 
 1
@@ -5650,13 +5650,13 @@ S-OPLS
 cpd_15-1
 
 >  <s_m_Source_File>  (15) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (15) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (15) 
-8479
+1232
 
 >  <s_m_entry_name>  (15) 
 mcl1_data..15
@@ -5665,10 +5665,10 @@ mcl1_data..15
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (15) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (15) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (15) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](C1CCCCC1)C(=O)N[C@H](CC1CCCCC1)C(=O)N[C@H](C(=O)NC)Cc1ccc(cc1)OC2
@@ -5954,9 +5954,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (16) 
 0
 
->  <i_f3d_flags>  (16) 
-0
-
 >  <i_lp_mmshare_version>  (16) 
 67138
 
@@ -5980,6 +5977,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (16) 
 2
+
+>  <i_f3d_flags>  (16) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (16) 
 1
@@ -6057,13 +6057,13 @@ S-OPLS
 cpd_16-1
 
 >  <s_m_Source_File>  (16) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (16) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (16) 
-8480
+1233
 
 >  <s_m_entry_name>  (16) 
 mcl1_data..16
@@ -6072,10 +6072,10 @@ mcl1_data..16
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (16) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (16) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (16) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](CC1CCCCC1)C(=O)N[C@H](CC1CCCCC1)C(=O)N[C@H](C(=O)NC)Cc1ccc(cc1)OC2
@@ -6326,9 +6326,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (17) 
 0
 
->  <i_f3d_flags>  (17) 
-0
-
 >  <i_lp_mmshare_version>  (17) 
 67138
 
@@ -6352,6 +6349,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (17) 
 2
+
+>  <i_f3d_flags>  (17) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (17) 
 1
@@ -6429,13 +6429,13 @@ S-OPLS
 cpd_17-1
 
 >  <s_m_Source_File>  (17) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (17) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (17) 
-8481
+1234
 
 >  <s_m_entry_name>  (17) 
 mcl1_data..17
@@ -6444,10 +6444,10 @@ mcl1_data..17
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (17) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (17) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (17) 
 CCOc1cccc2c1OC(C)(C)C(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](C(C)C)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -6689,17 +6689,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (18) 
 0
 
->  <i_f3d_flags>  (18) 
-0
-
 >  <i_lp_mmshare_version>  (18) 
 70133
 
 >  <i_m_Source_File_Index>  (18) 
-3
-
->  <i_m_source_file_index>  (18) 
-2
+18
 
 >  <i_mpc_Hbond_Acceptors>  (18) 
 7
@@ -6725,6 +6719,9 @@ M  END
 >  <i_psp_tugalign_nconf_i>  (18) 
 0
 
+>  <i_f3d_flags>  (18) 
+0
+
 >  <b_lp_Chiralities_Consistent>  (18) 
 1
 
@@ -6736,6 +6733,9 @@ M  END
 
 >  <b_psp_isMulticycle>  (18) 
 0
+
+>  <r_canvas_Mcl-1-BAK_TR-FRET_(µM)>  (18) 
+7.0999999999999996
 
 >  <r_epik_Charging_Adjusted_Penalty>  (18) 
 0
@@ -6843,13 +6843,13 @@ OPLS_2005
 Cpd_18_1 (Alignment 1)-1
 
 >  <s_m_Source_File>  (18) 
-align_ligands_tug-align_MCL1-outliers_cpds18_26_46_51-out.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (18) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/sys_prep/align_ligands_tug-align_MCL1-outliers_cpds18_26_46_51
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (18) 
-8504
+1235
 
 >  <s_m_entry_name>  (18) 
 entry
@@ -6857,14 +6857,11 @@ entry
 >  <s_m_job_name>  (18) 
 align_ligands_tug-align_MCL1-outliers_cpds18_26_46_51
 
->  <s_m_source_file>  (18) 
-/Users/awoonor/.schrodinger/tmp/awoonor/jobs/1d52096c-380a-11f0-8f5d-6a518b75e4db/ligprep/ligprep_in.maegz
-
 >  <s_m_subgroup_title>  (18) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (18) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (18) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -7124,9 +7121,6 @@ M  END
 >  <i_epik_Tot_abs_Q>  (19) 
 0
 
->  <i_f3d_flags>  (19) 
-0
-
 >  <i_lp_mmshare_version>  (19) 
 67138
 
@@ -7150,6 +7144,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (19) 
 2
+
+>  <i_f3d_flags>  (19) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (19) 
 1
@@ -7227,13 +7224,13 @@ S-OPLS
 cpd_19-1
 
 >  <s_m_Source_File>  (19) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (19) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (19) 
-8482
+1236
 
 >  <s_m_entry_name>  (19) 
 mcl1_data..19
@@ -7242,10 +7239,10 @@ mcl1_data..19
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (19) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (19) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (19) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@](C)(c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -7485,14 +7482,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (20) 
 0
 
->  <i_f3d_flags>  (20) 
-0
-
 >  <i_lp_mmshare_version>  (20) 
 67138
 
 >  <i_m_Source_File_Index>  (20) 
-2
+20
 
 >  <i_mpc_Hbond_Acceptors>  (20) 
 8
@@ -7511,6 +7505,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (20) 
 2
+
+>  <i_f3d_flags>  (20) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (20) 
 1
@@ -7588,13 +7585,13 @@ S-OPLS
 cpd_20-1
 
 >  <s_m_Source_File>  (20) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (20) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (20) 
-8507
+1237
 
 >  <s_m_entry_name>  (20) 
 mcl1_data..20
@@ -7603,10 +7600,10 @@ mcl1_data..20
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (20) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (20) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (20) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1cccnc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -7854,14 +7851,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (21) 
 0
 
->  <i_f3d_flags>  (21) 
-0
-
 >  <i_lp_mmshare_version>  (21) 
 67138
 
 >  <i_m_Source_File_Index>  (21) 
-3
+21
 
 >  <i_mpc_Hbond_Acceptors>  (21) 
 9
@@ -7880,6 +7874,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (21) 
 2
+
+>  <i_f3d_flags>  (21) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (21) 
 1
@@ -7957,13 +7954,13 @@ S-OPLS
 cpd_21-1
 
 >  <s_m_Source_File>  (21) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (21) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (21) 
-8508
+1238
 
 >  <s_m_entry_name>  (21) 
 mcl1_data..21
@@ -7972,10 +7969,10 @@ mcl1_data..21
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (21) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (21) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (21) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccnc(OC)c1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -8217,14 +8214,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (22) 
 0
 
->  <i_f3d_flags>  (22) 
-0
-
 >  <i_lp_mmshare_version>  (22) 
 67138
 
 >  <i_m_Source_File_Index>  (22) 
-23
+22
 
 >  <i_mpc_Hbond_Acceptors>  (22) 
 8
@@ -8243,6 +8237,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (22) 
 2
+
+>  <i_f3d_flags>  (22) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (22) 
 1
@@ -8320,13 +8317,13 @@ S-OPLS
 cpd_22-2
 
 >  <s_m_Source_File>  (22) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (22) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (22) 
-8483
+1239
 
 >  <s_m_entry_name>  (22) 
 mcl1_data..22
@@ -8335,10 +8332,10 @@ mcl1_data..22
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (22) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (22) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (22) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](Cc1cnc[nH]1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -8588,14 +8585,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (23) 
 0
 
->  <i_f3d_flags>  (23) 
-0
-
 >  <i_lp_mmshare_version>  (23) 
 67138
 
 >  <i_m_Source_File_Index>  (23) 
-24
+23
 
 >  <i_mpc_Hbond_Acceptors>  (23) 
 8
@@ -8614,6 +8608,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (23) 
 2
+
+>  <i_f3d_flags>  (23) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (23) 
 1
@@ -8691,13 +8688,13 @@ S-OPLS
 cpd_23-1
 
 >  <s_m_Source_File>  (23) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (23) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (23) 
-8485
+1240
 
 >  <s_m_entry_name>  (23) 
 mcl1_data..23
@@ -8706,10 +8703,10 @@ mcl1_data..23
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (23) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (23) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (23) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](Cc1ccc(O)cc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -8966,14 +8963,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (24) 
 0
 
->  <i_f3d_flags>  (24) 
-0
-
 >  <i_lp_mmshare_version>  (24) 
 67138
 
 >  <i_m_Source_File_Index>  (24) 
-25
+24
 
 >  <i_mpc_Hbond_Acceptors>  (24) 
 7
@@ -8992,6 +8986,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (24) 
 2
+
+>  <i_f3d_flags>  (24) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (24) 
 1
@@ -9069,13 +9066,13 @@ S-OPLS
 cpd_24-1
 
 >  <s_m_Source_File>  (24) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (24) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (24) 
-8486
+1241
 
 >  <s_m_entry_name>  (24) 
 mcl1_data..24
@@ -9084,10 +9081,10 @@ mcl1_data..24
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (24) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (24) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (24) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](Cc1c[nH]c3ccccc13)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -9328,14 +9325,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (25) 
 0
 
->  <i_f3d_flags>  (25) 
-0
-
 >  <i_lp_mmshare_version>  (25) 
 67138
 
 >  <i_m_Source_File_Index>  (25) 
-26
+25
 
 >  <i_mpc_Hbond_Acceptors>  (25) 
 8
@@ -9354,6 +9348,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (25) 
 2
+
+>  <i_f3d_flags>  (25) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (25) 
 1
@@ -9431,13 +9428,13 @@ S-OPLS
 cpd_25-1
 
 >  <s_m_Source_File>  (25) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (25) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (25) 
-8502
+1242
 
 >  <s_m_entry_name>  (25) 
 mcl1_data..25
@@ -9446,10 +9443,10 @@ mcl1_data..25
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (25) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (25) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (25) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](CCSC)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -9560,18 +9557,18 @@ M  V30 92 H 24.703481 4.249095 15.702109 0
 M  V30 93 H 25.766515 2.833505 15.943404 0
 M  V30 94 H 27.982212 5.530516 18.694605 0
 M  V30 95 H 29.181256 4.368146 20.489955 0
-M  V30 96 H 29.767459 8.940716 23.250827 0
-M  V30 97 H 31.308108 9.079224 22.488325 0
-M  V30 98 C 29.695949 9.783177 21.242132 0
-M  V30 99 H 30.504579 10.276793 20.703932 0
-M  V30 100 H 29.061972 9.297604 20.503402 0
-M  V30 101 S 28.684676 11.095074 22.008244 0
-M  V30 102 O 28.379875 12.094031 20.978355 0
-M  V30 103 C 27.139989 10.215282 22.400911 0
-M  V30 104 O 29.317873 11.490668 23.272114 0
-M  V30 105 H 27.342226 9.387224 23.075379 0
-M  V30 106 H 26.466682 10.918002 22.887837 0
-M  V30 107 H 26.685274 9.851185 21.482753 0
+M  V30 96 H 30.464051 9.399206 21.400866 0
+M  V30 97 H 29.289862 9.136957 22.636462 0
+M  V30 98 C 31.308876 9.133716 23.392221 0
+M  V30 99 H 30.810075 9.292983 24.347747 0
+M  V30 100 H 32.046304 8.347162 23.537009 0
+M  V30 101 S 32.243800 10.655494 23.017012 0
+M  V30 102 O 33.027164 11.012306 24.204663 0
+M  V30 103 C 33.406910 10.090665 21.735442 0
+M  V30 104 O 31.326655 11.624595 22.405055 0
+M  V30 105 H 32.860777 9.706065 20.877941 0
+M  V30 106 H 34.006523 10.944151 21.425152 0
+M  V30 107 H 34.054726 9.320038 22.146315 0
 M  V30 END ATOM
 M  V30 BEGIN BOND
 M  V30 1 1 2 1
@@ -9728,7 +9725,10 @@ M  END
 0
 
 >  <r_canvas_Mcl-1-BAK_TR-FRET_(µM)>  (26) 
-0.13
+0.080000000000000002
+
+>  <r_canvas_Mcl-1-BAK_TR-FRET_(ÂµM)>  (26) 
+0.080000000000000002
 
 >  <r_epik_Charging_Adjusted_Penalty>  (26) 
 0
@@ -9746,13 +9746,7 @@ M  END
 0
 
 >  <r_fepmapper_exp_dG>  (26) 
--9.3942813873291016
-
->  <r_fepplus_pred_dg>  (26) 
--4.9400000000000004
-
->  <r_fepplus_pred_dg_error>  (26) 
-0.29999999999999999
+-9.6819372177124023
 
 >  <r_lp_Energy>  (26) 
 66.296549999999996
@@ -9779,7 +9773,7 @@ M  END
 5.73444094219225e-15
 
 >  <r_user_Mcl-1-BAK_TR-FRET_(uM)>  (26) 
-0.13
+0.080000000000000002
 
 >  <s_epik_cmdline>  (26) 
 J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
@@ -9803,7 +9797,7 @@ mcl1_macs_fullset_ordered.maegz
 /Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
 
 >  <s_m_entry_id>  (26) 
-8524
+1277
 
 >  <s_m_entry_name>  (26) 
 mcl1_data..3
@@ -9812,10 +9806,10 @@ mcl1_data..3
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (26) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (26) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (26) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](CCS(C)(=O)=O)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -10056,14 +10050,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (27) 
 0
 
->  <i_f3d_flags>  (27) 
-0
-
 >  <i_lp_mmshare_version>  (27) 
 67138
 
 >  <i_m_Source_File_Index>  (27) 
-28
+27
 
 >  <i_mpc_Hbond_Acceptors>  (27) 
 8
@@ -10082,6 +10073,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (27) 
 2
+
+>  <i_f3d_flags>  (27) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (27) 
 1
@@ -10159,13 +10153,13 @@ S-OPLS
 cpd_27-1
 
 >  <s_m_Source_File>  (27) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (27) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (27) 
-8487
+1244
 
 >  <s_m_entry_name>  (27) 
 mcl1_data..27
@@ -10174,10 +10168,10 @@ mcl1_data..27
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (27) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (27) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (27) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H]([C@@H](C)OC)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -10425,14 +10419,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (28) 
 0
 
->  <i_f3d_flags>  (28) 
-0
-
 >  <i_lp_mmshare_version>  (28) 
 67138
 
 >  <i_m_Source_File_Index>  (28) 
-29
+28
 
 >  <i_mpc_Hbond_Acceptors>  (28) 
 7
@@ -10451,6 +10442,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (28) 
 2
+
+>  <i_f3d_flags>  (28) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (28) 
 1
@@ -10528,13 +10522,13 @@ S-OPLS
 cpd_28-1
 
 >  <s_m_Source_File>  (28) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (28) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (28) 
-8488
+1245
 
 >  <s_m_entry_name>  (28) 
 mcl1_data..28
@@ -10543,10 +10537,10 @@ mcl1_data..28
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (28) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (28) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (28) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)N(C)CCc1ccc(cc1)OC2
@@ -10794,14 +10788,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (29) 
 0
 
->  <i_f3d_flags>  (29) 
-0
-
 >  <i_lp_mmshare_version>  (29) 
 67138
 
 >  <i_m_Source_File_Index>  (29) 
-4
+29
 
 >  <i_mpc_Hbond_Acceptors>  (29) 
 7
@@ -10820,6 +10811,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (29) 
 2
+
+>  <i_f3d_flags>  (29) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (29) 
 1
@@ -10897,13 +10891,13 @@ S-OPLS
 cpd_29-1
 
 >  <s_m_Source_File>  (29) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (29) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (29) 
-8509
+1246
 
 >  <s_m_entry_name>  (29) 
 mcl1_data..29
@@ -10912,10 +10906,10 @@ mcl1_data..29
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (29) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (29) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (29) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N(C)[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -11163,14 +11157,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (30) 
 0
 
->  <i_f3d_flags>  (30) 
-0
-
 >  <i_lp_mmshare_version>  (30) 
 67138
 
 >  <i_m_Source_File_Index>  (30) 
-31
+30
 
 >  <i_mpc_Hbond_Acceptors>  (30) 
 7
@@ -11189,6 +11180,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (30) 
 2
+
+>  <i_f3d_flags>  (30) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (30) 
 1
@@ -11266,13 +11260,13 @@ S-OPLS
 cpd_30-1
 
 >  <s_m_Source_File>  (30) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (30) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (30) 
-8489
+1247
 
 >  <s_m_entry_name>  (30) 
 mcl1_data..30
@@ -11281,10 +11275,10 @@ mcl1_data..30
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (30) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (30) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (30) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N(C)[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -11526,14 +11520,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (31) 
 0
 
->  <i_f3d_flags>  (31) 
-0
-
 >  <i_lp_mmshare_version>  (31) 
 67138
 
 >  <i_m_Source_File_Index>  (31) 
-1
+31
 
 >  <i_mpc_Hbond_Acceptors>  (31) 
 7
@@ -11563,6 +11554,9 @@ M  END
 0
 
 >  <i_psp_tugalign_nconf_i>  (31) 
+0
+
+>  <i_f3d_flags>  (31) 
 0
 
 >  <b_lp_Chiralities_Consistent>  (31) 
@@ -11662,13 +11656,13 @@ S-OPLS
 cpd_31-1
 
 >  <s_m_Source_File>  (31) 
-minimized_cpd_31.mae
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (31) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/combined-data_all-sys/all_systems/triplicate_runs_v25-4/mcl1/fep_runs/trbleshoot_runs/Repose_cpds_26_46_51
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (31) 
-8526
+1248
 
 >  <s_m_entry_name>  (31) 
 mcl1_data..31
@@ -11677,10 +11671,10 @@ mcl1_data..31
 FepPoseBuilder_mcl1-xtal-pose_cpds_31_33_26_46_51
 
 >  <s_m_subgroup_title>  (31) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (31) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (31) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N(c1ccccc1)CC(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -11937,14 +11931,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (32) 
 0
 
->  <i_f3d_flags>  (32) 
-0
-
 >  <i_lp_mmshare_version>  (32) 
 67138
 
 >  <i_m_Source_File_Index>  (32) 
-5
+32
 
 >  <i_mpc_Hbond_Acceptors>  (32) 
 7
@@ -11963,6 +11954,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (32) 
 2
+
+>  <i_f3d_flags>  (32) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (32) 
 1
@@ -12040,13 +12034,13 @@ S-OPLS
 cpd_32-1
 
 >  <s_m_Source_File>  (32) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (32) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (32) 
-8510
+1249
 
 >  <s_m_entry_name>  (32) 
 mcl1_data..32
@@ -12055,10 +12049,10 @@ mcl1_data..32
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (32) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (32) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (32) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N(Cc1ccccc1)CC(=O)NCCc1ccc(cc1)OC2
@@ -12300,14 +12294,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (33) 
 0
 
->  <i_f3d_flags>  (33) 
-0
-
 >  <i_lp_mmshare_version>  (33) 
 67138
 
 >  <i_m_Source_File_Index>  (33) 
-1
+33
 
 >  <i_mpc_Hbond_Acceptors>  (33) 
 7
@@ -12337,6 +12328,9 @@ M  END
 0
 
 >  <i_psp_tugalign_nconf_i>  (33) 
+0
+
+>  <i_f3d_flags>  (33) 
 0
 
 >  <b_lp_Chiralities_Consistent>  (33) 
@@ -12436,13 +12430,13 @@ S-OPLS
 cpd_33-1
 
 >  <s_m_Source_File>  (33) 
-minimized_cpd_33.mae
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (33) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/combined-data_all-sys/all_systems/triplicate_runs_v25-4/mcl1/fep_runs/trbleshoot_runs/Repose_cpds_26_46_51
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (33) 
-8527
+1250
 
 >  <s_m_entry_name>  (33) 
 mcl1_data..33
@@ -12451,10 +12445,10 @@ mcl1_data..33
 FepPoseBuilder_mcl1-xtal-pose_cpds_31_33_26_46_51
 
 >  <s_m_subgroup_title>  (33) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (33) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (33) 
 CCOc1cccc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N(c1ccccc1)CC(=O)N(Cc1ccccc1)CC(=O)NCCc1ccc(cc1)OC2
@@ -12744,14 +12738,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (34) 
 0
 
->  <i_f3d_flags>  (34) 
-0
-
 >  <i_lp_mmshare_version>  (34) 
 67138
 
 >  <i_m_Source_File_Index>  (34) 
-6
+34
 
 >  <i_mpc_Hbond_Acceptors>  (34) 
 7
@@ -12770,6 +12761,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (34) 
 2
+
+>  <i_f3d_flags>  (34) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (34) 
 1
@@ -12847,13 +12841,13 @@ S-OPLS
 cpd_34-1
 
 >  <s_m_Source_File>  (34) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (34) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (34) 
-8511
+1251
 
 >  <s_m_entry_name>  (34) 
 mcl1_data..34
@@ -12862,10 +12856,10 @@ mcl1_data..34
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (34) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (34) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (34) 
 CCOc1cc(-c2cc(C)cc(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -13134,14 +13128,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (35) 
 0
 
->  <i_f3d_flags>  (35) 
-0
-
 >  <i_lp_mmshare_version>  (35) 
 67138
 
 >  <i_m_Source_File_Index>  (35) 
-36
+35
 
 >  <i_mpc_Hbond_Acceptors>  (35) 
 7
@@ -13160,6 +13151,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (35) 
 2
+
+>  <i_f3d_flags>  (35) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (35) 
 1
@@ -13237,13 +13231,13 @@ S-OPLS
 cpd_35-1
 
 >  <s_m_Source_File>  (35) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (35) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (35) 
-8490
+1252
 
 >  <s_m_entry_name>  (35) 
 mcl1_data..35
@@ -13252,10 +13246,10 @@ mcl1_data..35
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (35) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (35) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (35) 
 CCOc1cc(-c2ccc(F)c(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -13526,14 +13520,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (36) 
 0
 
->  <i_f3d_flags>  (36) 
-0
-
 >  <i_lp_mmshare_version>  (36) 
 67138
 
 >  <i_m_Source_File_Index>  (36) 
-37
+36
 
 >  <i_mpc_Hbond_Acceptors>  (36) 
 8
@@ -13552,6 +13543,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (36) 
 2
+
+>  <i_f3d_flags>  (36) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (36) 
 1
@@ -13629,13 +13623,13 @@ S-OPLS
 cpd_36-1
 
 >  <s_m_Source_File>  (36) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (36) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (36) 
-8491
+1253
 
 >  <s_m_entry_name>  (36) 
 mcl1_data..36
@@ -13644,10 +13638,10 @@ mcl1_data..36
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (36) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (36) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (36) 
 CCOc1cc(-c2ccc(F)c(OC)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -13916,14 +13910,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (37) 
 0
 
->  <i_f3d_flags>  (37) 
-0
-
 >  <i_lp_mmshare_version>  (37) 
 67138
 
 >  <i_m_Source_File_Index>  (37) 
-38
+37
 
 >  <i_mpc_Hbond_Acceptors>  (37) 
 7
@@ -13942,6 +13933,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (37) 
 2
+
+>  <i_f3d_flags>  (37) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (37) 
 1
@@ -14019,13 +14013,13 @@ S-OPLS
 cpd_37-1
 
 >  <s_m_Source_File>  (37) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (37) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (37) 
-8492
+1254
 
 >  <s_m_entry_name>  (37) 
 mcl1_data..37
@@ -14034,10 +14028,10 @@ mcl1_data..37
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (37) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (37) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (37) 
 CCOc1cc(-c2ccc(C(F)(F)F)cc2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -14316,14 +14310,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (38) 
 0
 
->  <i_f3d_flags>  (38) 
-0
-
 >  <i_lp_mmshare_version>  (38) 
 69130
 
 >  <i_m_Source_File_Index>  (38) 
-17
+38
 
 >  <i_mpc_Hbond_Acceptors>  (38) 
 7
@@ -14348,6 +14339,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (38) 
 2
+
+>  <i_f3d_flags>  (38) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (38) 
 1
@@ -14536,13 +14530,13 @@ OPLS_2005
 cpd_38-1
 
 >  <s_m_Source_File>  (38) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (38) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (38) 
-8512
+1255
 
 >  <s_m_entry_name>  (38) 
 mcl1_data..38
@@ -14551,10 +14545,10 @@ mcl1_data..38
 mcl1_macs_align_outliers
 
 >  <s_m_subgroup_title>  (38) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (38) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (38) 
 CCOc1cc(C#Cc2cc(C)cc(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -14830,14 +14824,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (39) 
 0
 
->  <i_f3d_flags>  (39) 
-0
-
 >  <i_lp_mmshare_version>  (39) 
 67138
 
 >  <i_m_Source_File_Index>  (39) 
-7
+39
 
 >  <i_mpc_Hbond_Acceptors>  (39) 
 7
@@ -14856,6 +14847,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (39) 
 2
+
+>  <i_f3d_flags>  (39) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (39) 
 1
@@ -14933,13 +14927,13 @@ S-OPLS
 cpd_39-1
 
 >  <s_m_Source_File>  (39) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (39) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (39) 
-8513
+1256
 
 >  <s_m_entry_name>  (39) 
 mcl1_data..39
@@ -14948,10 +14942,10 @@ mcl1_data..39
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (39) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (39) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (39) 
 CCOc1cc(C#Cc2cc(F)cc(F)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -15218,14 +15212,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (40) 
 0
 
->  <i_f3d_flags>  (40) 
-0
-
 >  <i_lp_mmshare_version>  (40) 
 69130
 
 >  <i_m_Source_File_Index>  (40) 
-15
+40
 
 >  <i_mpc_Hbond_Acceptors>  (40) 
 7
@@ -15250,6 +15241,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (40) 
 2
+
+>  <i_f3d_flags>  (40) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (40) 
 1
@@ -15438,13 +15432,13 @@ OPLS_2005
 cpd_40-1
 
 >  <s_m_Source_File>  (40) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (40) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (40) 
-8514
+1257
 
 >  <s_m_entry_name>  (40) 
 mcl1_data..40
@@ -15453,10 +15447,10 @@ mcl1_data..40
 mcl1_macs_align_outliers
 
 >  <s_m_subgroup_title>  (40) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (40) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (40) 
 CCOc1cc(C#Cc2cccc(F)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -15756,14 +15750,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (41) 
 0
 
->  <i_f3d_flags>  (41) 
-0
-
 >  <i_lp_mmshare_version>  (41) 
 69130
 
 >  <i_m_Source_File_Index>  (41) 
-14
+41
 
 >  <i_mpc_Hbond_Acceptors>  (41) 
 7
@@ -15788,6 +15779,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (41) 
 2
+
+>  <i_f3d_flags>  (41) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (41) 
 1
@@ -15976,13 +15970,13 @@ OPLS_2005
 cpd_41-1
 
 >  <s_m_Source_File>  (41) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (41) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (41) 
-8515
+1258
 
 >  <s_m_entry_name>  (41) 
 mcl1_data..41
@@ -15991,10 +15985,10 @@ mcl1_data..41
 mcl1_macs_align_outliers
 
 >  <s_m_subgroup_title>  (41) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (41) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (41) 
 CCOc1cc(C#Cc2ccc(C(C)(C)C)cc2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -16278,14 +16272,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (42) 
 0
 
->  <i_f3d_flags>  (42) 
-0
-
 >  <i_lp_mmshare_version>  (42) 
 69130
 
 >  <i_m_Source_File_Index>  (42) 
-16
+42
 
 >  <i_mpc_Hbond_Acceptors>  (42) 
 8
@@ -16310,6 +16301,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (42) 
 2
+
+>  <i_f3d_flags>  (42) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (42) 
 1
@@ -16498,13 +16492,13 @@ OPLS_2005
 cpd_42-1
 
 >  <s_m_Source_File>  (42) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (42) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (42) 
-8516
+1259
 
 >  <s_m_entry_name>  (42) 
 mcl1_data..42
@@ -16513,10 +16507,10 @@ mcl1_data..42
 mcl1_macs_align_outliers
 
 >  <s_m_subgroup_title>  (42) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (42) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (42) 
 CCOc1cc(C#Cc2ccc(OC)cc2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -16802,14 +16796,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (43) 
 0
 
->  <i_f3d_flags>  (43) 
-0
-
 >  <i_lp_mmshare_version>  (43) 
 67138
 
 >  <i_m_Source_File_Index>  (43) 
-44
+43
 
 >  <i_mpc_Hbond_Acceptors>  (43) 
 8
@@ -16828,6 +16819,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (43) 
 2
+
+>  <i_f3d_flags>  (43) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (43) 
 1
@@ -16905,13 +16899,13 @@ S-OPLS
 cpd_43-1
 
 >  <s_m_Source_File>  (43) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (43) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (43) 
-8493
+1260
 
 >  <s_m_entry_name>  (43) 
 mcl1_data..43
@@ -16920,10 +16914,10 @@ mcl1_data..43
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (43) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (43) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (43) 
 CCOc1cc(Oc2cc(C)cc(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -17200,14 +17194,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (44) 
 0
 
->  <i_f3d_flags>  (44) 
-0
-
 >  <i_lp_mmshare_version>  (44) 
 67138
 
 >  <i_m_Source_File_Index>  (44) 
-45
+44
 
 >  <i_mpc_Hbond_Acceptors>  (44) 
 8
@@ -17226,6 +17217,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (44) 
 2
+
+>  <i_f3d_flags>  (44) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (44) 
 1
@@ -17303,13 +17297,13 @@ S-OPLS
 cpd_44-1
 
 >  <s_m_Source_File>  (44) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (44) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (44) 
-8494
+1261
 
 >  <s_m_entry_name>  (44) 
 mcl1_data..44
@@ -17318,10 +17312,10 @@ mcl1_data..44
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (44) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (44) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (44) 
 CCOc1cc(Oc2cc(C)c(Cl)c(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -17592,14 +17586,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (45) 
 0
 
->  <i_f3d_flags>  (45) 
-0
-
 >  <i_lp_mmshare_version>  (45) 
 67138
 
 >  <i_m_Source_File_Index>  (45) 
-8
+45
 
 >  <i_mpc_Hbond_Acceptors>  (45) 
 8
@@ -17618,6 +17609,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (45) 
 2
+
+>  <i_f3d_flags>  (45) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (45) 
 1
@@ -17695,13 +17689,13 @@ S-OPLS
 cpd_45-1
 
 >  <s_m_Source_File>  (45) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (45) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (45) 
-8517
+1262
 
 >  <s_m_entry_name>  (45) 
 mcl1_data..45
@@ -17710,10 +17704,10 @@ mcl1_data..45
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (45) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (45) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (45) 
 CCOc1cc(Oc2cccc(C(F)(F)F)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -17973,7 +17967,7 @@ M  V30 END BOND
 M  V30 END CTAB
 M  END
 >  <i_m_Source_File_Index>  (46) 
-1
+46
 
 >  <i_mpc_Hbond_Acceptors>  (46) 
 8
@@ -17986,6 +17980,9 @@ M  END
 
 >  <b_m_subgroup_collapsed>  (46) 
 0
+
+>  <r_canvas_Mcl-1-BAK_TR-FRET_(µM)>  (46) 
+0.021999999999999999
 
 >  <r_fepmapper_exp_dG>  (46) 
 -10.446825981140137
@@ -18006,22 +18003,22 @@ M  END
 153.31999999999999
 
 >  <s_m_Source_File>  (46) 
-minimized_cpd_46.mae
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (46) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/combined-data_all-sys/all_systems/triplicate_runs_v25-4/mcl1/fep_runs/trbleshoot_runs
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (46) 
-8523
+1263
 
 >  <s_m_entry_name>  (46) 
 minimized_cpd_46.1
 
 >  <s_m_subgroup_title>  (46) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (46) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (46) 
 CCOc1cc(Oc2cccc(Cl)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -18296,14 +18293,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (47) 
 0
 
->  <i_f3d_flags>  (47) 
-0
-
 >  <i_lp_mmshare_version>  (47) 
 69130
 
 >  <i_m_Source_File_Index>  (47) 
-13
+47
 
 >  <i_mpc_Hbond_Acceptors>  (47) 
 8
@@ -18328,6 +18322,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (47) 
 2
+
+>  <i_f3d_flags>  (47) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (47) 
 1
@@ -18516,13 +18513,13 @@ OPLS_2005
 cpd_47-1
 
 >  <s_m_Source_File>  (47) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (47) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (47) 
-8518
+1264
 
 >  <s_m_entry_name>  (47) 
 mcl1_data..47
@@ -18531,10 +18528,10 @@ mcl1_data..47
 mcl1_macs_align_outliers
 
 >  <s_m_subgroup_title>  (47) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (47) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (47) 
 CCOc1cc(Oc2cccc3ccccc23)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)OC2
@@ -18818,14 +18815,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (48) 
 0
 
->  <i_f3d_flags>  (48) 
-0
-
 >  <i_lp_mmshare_version>  (48) 
 69130
 
 >  <i_m_Source_File_Index>  (48) 
-11
+48
 
 >  <i_mpc_Hbond_Acceptors>  (48) 
 9
@@ -18850,6 +18844,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (48) 
 2
+
+>  <i_f3d_flags>  (48) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (48) 
 1
@@ -19032,13 +19029,13 @@ OPLS_2005
 cpd_48-1
 
 >  <s_m_Source_File>  (48) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (48) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (48) 
-8519
+1265
 
 >  <s_m_entry_name>  (48) 
 mcl1_data..48
@@ -19047,10 +19044,10 @@ mcl1_data..48
 mcl1_macs_align_outliers
 
 >  <s_m_subgroup_title>  (48) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (48) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (48) 
 CCOc1cc(Oc2cc(C)c(Cl)c(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1cccnc1)C(=O)NCCc1ccc(cc1)OC2
@@ -19334,14 +19331,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (49) 
 0
 
->  <i_f3d_flags>  (49) 
-0
-
 >  <i_lp_mmshare_version>  (49) 
 69130
 
 >  <i_m_Source_File_Index>  (49) 
-22
+49
 
 >  <i_mpc_Hbond_Acceptors>  (49) 
 9
@@ -19366,6 +19360,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (49) 
 2
+
+>  <i_f3d_flags>  (49) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (49) 
 1
@@ -19548,13 +19545,13 @@ OPLS_2005
 cpd_49-1
 
 >  <s_m_Source_File>  (49) 
-mcl1_pose_pred_out.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (49) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/Mcl-1_macs/modeling/fep_runs/fep_pose_builder
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (49) 
-8500
+1266
 
 >  <s_m_entry_name>  (49) 
 mcl1_data..49
@@ -19563,10 +19560,10 @@ mcl1_data..49
 mcl1_macs_align_outliers
 
 >  <s_m_subgroup_title>  (49) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (49) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (49) 
 CCOc1cc(Oc2cc(C)c(Cl)c(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccncc1)C(=O)NCCc1ccc(cc1)OC2
@@ -19849,14 +19846,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (50) 
 0
 
->  <i_f3d_flags>  (50) 
-0
-
 >  <i_lp_mmshare_version>  (50) 
 67138
 
 >  <i_m_Source_File_Index>  (50) 
-9
+50
 
 >  <i_mpc_Hbond_Acceptors>  (50) 
 10
@@ -19875,6 +19869,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (50) 
 2
+
+>  <i_f3d_flags>  (50) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (50) 
 1
@@ -19952,13 +19949,13 @@ S-OPLS
 cpd_50-1
 
 >  <s_m_Source_File>  (50) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (50) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (50) 
-8520
+1267
 
 >  <s_m_entry_name>  (50) 
 mcl1_data..50
@@ -19967,10 +19964,10 @@ mcl1_data..50
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (50) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (50) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (50) 
 CCOc1cc(Oc2cc(C)c(Cl)c(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H]([C@H](C)OC)C(=O)N[C@H](Cc1ccncc1)C(=O)NCCc1ccc(cc1)OC2
@@ -19984,255 +19981,261 @@ cpd_51
 
   0  0  0  0  0  0  0  0  0  0999 V3000
 M  V30 BEGIN CTAB
-M  V30 COUNTS 120 125 0 0 1
+M  V30 COUNTS 123 128 0 0 1
 M  V30 BEGIN ATOM
-M  V30 1 C 32.211768 3.895472 12.456391 0
-M  V30 2 C 30.801440 4.443716 12.250273 0
-M  V30 3 O 30.040701 4.143196 13.412810 0
-M  V30 4 C 28.690143 4.443193 13.437083 0
-M  V30 5 C 28.038221 5.163294 12.423902 0
-M  V30 6 C 26.670798 5.463948 12.504897 0
-M  V30 7 O 26.043791 6.180266 11.519266 0
-M  V30 8 C 24.910893 5.626604 10.985335 0
-M  V30 9 C 24.655537 4.249387 11.141032 0
-M  V30 10 C 23.491134 3.680911 10.589616 0
-M  V30 11 C 22.580399 4.491313 9.883256 0
-M  V30 12 C 22.821974 5.873673 9.732127 0
-M  V30 13 C 23.990576 6.436170 10.289444 0
-M  V30 14 C 25.950396 5.015030 13.618030 0
-M  V30 15 C 26.574313 4.289159 14.636366 0
-M  V30 16 C 27.945035 4.003927 14.545374 0
-M  V30 17 O 28.552367 3.325429 15.576972 0
-M  V30 18 C 28.964867 1.978302 15.306073 0
-M  V30 19 C 30.330328 1.700208 15.954137 0
-M  V30 20 O 30.657265 0.547668 16.231559 0
-M  V30 21 N 31.137642 2.746870 16.172794 0
-M  V30 22 C 32.414946 2.708048 16.880944 0 CFG=1
-M  V30 23 C 33.339819 3.852057 16.400320 0
-M  V30 24 C 32.769791 5.256277 16.722489 0
-M  V30 25 C 32.525932 5.425215 18.242132 0 CFG=2
-M  V30 26 C 31.610846 4.277160 18.742457 0
-M  V30 27 C 32.200821 2.889618 18.401991 0
-M  V30 28 C 31.973525 6.836816 18.575731 0
-M  V30 29 C 31.793281 7.082848 20.075518 0
-M  V30 30 O 32.776096 7.154840 20.809189 0
-M  V30 31 N 30.539256 7.167137 20.540176 0
-M  V30 32 C 30.168318 7.332564 21.954219 0 CFG=1
-M  V30 33 C 30.177074 8.843295 22.303903 0
-M  V30 34 C 28.786501 6.695539 22.244750 0
-M  V30 35 O 27.950595 6.616976 21.344800 0
-M  V30 36 N 28.570118 6.265160 23.494135 0
-M  V30 37 C 27.298895 5.722733 23.990027 0 CFG=2
-M  V30 38 C 27.138196 6.112461 25.475585 0
-M  V30 39 C 27.072505 7.610794 25.715657 0
-M  V30 40 C 25.847974 8.291853 25.554752 0
-M  V30 41 C 25.803987 9.675425 25.657569 0
-M  V30 42 N 26.968195 10.398862 25.880842 0
-M  V30 43 C 28.188304 9.746817 25.997865 0
-M  V30 44 C 28.251692 8.363247 25.907133 0
-M  V30 45 C 27.155589 4.200286 23.794871 0
-M  V30 46 O 26.257233 3.597810 24.375563 0
-M  V30 47 N 28.057453 3.589748 23.020199 0
-M  V30 48 C 28.024174 2.169388 22.678640 0
-M  V30 49 C 28.733999 1.875010 21.344065 0
-M  V30 50 C 28.051695 2.529342 20.151838 0
-M  V30 51 C 27.085576 1.833475 19.425013 0
-M  V30 52 C 26.436512 2.456867 18.362459 0
-M  V30 53 C 26.750063 3.778908 18.020203 0
-M  V30 54 O 26.143978 4.475535 16.997309 0
-M  V30 55 C 25.756738 3.776830 15.815038 0
-M  V30 56 C 27.702479 4.469334 18.761218 0
-M  V30 57 C 28.361861 3.846087 19.813952 0
-M  V30 58 H 32.703686 4.409308 13.280676 0
-M  V30 59 H 32.186784 2.830767 12.690875 0
-M  V30 60 H 32.822472 4.032927 11.564294 0
-M  V30 61 H 30.355278 3.977209 11.369610 0
-M  V30 62 H 30.841619 5.521803 12.083007 0
-M  V30 63 H 28.567532 5.518660 11.555521 0
-M  V30 64 H 25.356508 3.630323 11.681949 0
-M  V30 65 C 23.215099 2.174837 10.754376 0
-M  V30 66 Cl 21.153652 3.795821 9.195081 0
-M  V30 67 H 24.186046 7.492214 10.176992 0
-M  V30 68 H 24.896868 5.246946 13.669555 0
-M  V30 69 H 28.232868 1.298729 15.742283 0
-M  V30 70 H 29.041495 1.748978 14.242012 0
-M  V30 71 H 30.713733 3.649098 16.015560 0
-M  V30 72 H 32.906116 1.749523 16.684366 0
-M  V30 73 H 33.509794 3.752806 15.328784 0
-M  V30 74 H 34.323103 3.740457 16.860024 0
-M  V30 75 H 33.446040 6.034011 16.363369 0
-M  V30 76 H 31.840394 5.422827 16.174040 0
-M  V30 77 H 33.496260 5.304220 18.732813 0
-M  V30 78 H 30.619317 4.382391 18.299823 0
-M  V30 79 H 31.448424 4.350967 19.818016 0
-M  V30 80 H 31.535720 2.105982 18.769972 0
-M  V30 81 H 33.144830 2.744811 18.928718 0
-M  V30 82 H 32.655478 7.604153 18.209828 0
-M  V30 83 H 31.028272 7.003096 18.058125 0
-M  V30 84 H 29.750387 7.077572 19.912448 0
-M  V30 85 H 30.884564 6.737356 22.555591 0
-M  V30 86 H 29.283985 6.401918 24.189002 0
-M  V30 87 H 26.476193 6.175270 23.431291 0
-M  V30 88 H 26.223021 5.668388 25.872917 0
-M  V30 89 H 27.946819 5.684962 26.069283 0
-M  V30 90 H 24.941662 7.740101 25.347786 0
-M  V30 91 H 24.861535 10.192309 25.546980 0
-M  V30 92 H 29.091901 10.319960 26.147634 0
-M  V30 93 H 29.210379 7.873255 25.985337 0
-M  V30 94 H 28.712251 4.178904 22.532312 0
-M  V30 95 H 28.538861 1.632246 23.477921 0
-M  V30 96 H 27.014070 1.748373 22.670861 0
-M  V30 97 H 29.783066 2.171419 21.389541 0
-M  V30 98 H 28.769241 0.796567 21.182342 0
-M  V30 99 H 26.822760 0.819800 19.689160 0
-M  V30 100 H 25.668185 1.915019 17.836319 0
-M  V30 101 H 25.882907 2.694946 15.850381 0
-M  V30 102 H 24.693120 3.953945 15.651483 0
-M  V30 103 H 27.921271 5.496234 18.513384 0
-M  V30 104 H 29.093127 4.402151 20.377818 0
-M  V30 105 C 21.815661 6.751914 8.965560 0
-M  V30 106 H 22.168606 7.783110 8.952693 0
-M  V30 107 H 21.720728 6.388135 7.942451 0
-M  V30 108 H 20.844376 6.706994 9.458194 0
-M  V30 109 H 22.274779 1.921569 10.264731 0
-M  V30 110 H 24.025603 1.604589 10.300503 0
-M  V30 111 H 23.149263 1.930852 11.814677 0
-M  V30 112 H 30.389811 9.455737 21.431048 0
-M  V30 113 H 29.205678 9.153074 22.688033 0
-M  V30 114 S 31.421385 9.280864 23.574718 0
-M  V30 115 O 32.767335 9.225587 23.000134 0
-M  V30 116 C 31.060866 11.040019 23.889417 0
-M  V30 117 O 31.112644 8.528382 24.795394 0
-M  V30 118 H 30.005242 11.181921 24.101211 0
-M  V30 119 H 31.660417 11.357423 24.741032 0
-M  V30 120 H 31.355210 11.616917 23.014447 0
+M  V30 1 C 32.206004 3.712105 12.573402 0
+M  V30 2 C 30.831950 4.319618 12.295028 0
+M  V30 3 O 30.024252 4.079510 13.445700 0
+M  V30 4 C 28.686450 4.435677 13.436351 0
+M  V30 5 C 28.093288 5.133737 12.374938 0
+M  V30 6 C 26.744343 5.471839 12.418675 0
+M  V30 7 O 26.162122 6.123221 11.365813 0
+M  V30 8 C 26.427313 7.454636 11.138300 0
+M  V30 9 C 27.029323 8.302229 12.077358 0
+M  V30 10 C 27.249476 9.649496 11.785784 0
+M  V30 11 C 27.903398 10.534773 12.835715 0
+M  V30 12 C 26.859799 10.162510 10.538050 0
+M  V30 13 Cl 27.126532 11.836300 10.164936 0
+M  V30 14 C 26.250676 9.317540 9.595559 0
+M  V30 15 C 25.806726 9.837643 8.237874 0
+M  V30 16 C 26.040126 7.972782 9.907139 0
+M  V30 17 C 25.974404 5.147811 13.527814 0
+M  V30 18 C 26.535153 4.443504 14.594596 0
+M  V30 19 C 27.888876 4.080317 14.545447 0
+M  V30 20 O 28.411910 3.401731 15.620167 0
+M  V30 21 C 28.853694 2.056222 15.378134 0
+M  V30 22 C 30.238331 1.832019 16.007381 0
+M  V30 23 O 30.885045 0.820676 15.744500 0
+M  V30 24 N 30.692606 2.791263 16.825022 0
+M  V30 25 C 32.018724 2.896533 17.422108 0 CFG=2
+M  V30 26 C 31.980518 3.386017 18.889835 0
+M  V30 27 C 33.117268 4.388693 19.190370 0
+M  V30 28 C 33.055233 5.641633 18.260488 0 CFG=1
+M  V30 29 C 33.175343 5.134358 16.783174 0
+M  V30 30 C 33.076167 3.600871 16.544776 0
+M  V30 31 C 31.818055 6.572832 18.489422 0
+M  V30 32 C 31.583758 6.986665 19.947457 0
+M  V30 33 O 32.558545 7.208811 20.663376 0
+M  V30 34 N 30.327163 7.065184 20.422434 0
+M  V30 35 C 30.065527 7.244081 21.850573 0 CFG=1
+M  V30 36 C 30.163515 8.742475 22.275352 0
+M  V30 37 C 31.292793 9.051923 23.307030 0
+M  V30 38 S 32.268295 10.578852 22.833746 0
+M  V30 39 C 33.306563 10.034344 21.419288 0
+M  V30 40 O 33.169074 10.875741 23.945674 0
+M  V30 41 O 31.330519 11.585290 22.339181 0
+M  V30 42 C 28.701241 6.641173 22.203646 0
+M  V30 43 O 27.861674 6.466738 21.324274 0
+M  V30 44 N 28.543189 6.305935 23.485540 0
+M  V30 45 C 27.401214 5.612832 24.080659 0 CFG=2
+M  V30 46 C 27.152986 6.084515 25.546783 0
+M  V30 47 C 27.041043 7.597989 25.678837 0
+M  V30 48 C 25.791480 8.222895 25.617865 0
+M  V30 49 C 25.734704 9.615974 25.702127 0
+M  V30 50 N 26.840523 10.388770 25.844903 0
+M  V30 51 C 28.045051 9.770762 25.922310 0
+M  V30 52 C 28.186660 8.384012 25.853937 0
+M  V30 53 C 27.527963 4.080745 24.018178 0
+M  V30 54 O 27.663461 3.429192 25.050972 0
+M  V30 55 N 27.576271 3.538592 22.799548 0
+M  V30 56 C 27.793930 2.115355 22.532674 0
+M  V30 57 C 28.615587 1.875367 21.249835 0
+M  V30 58 C 28.005046 2.548648 20.030780 0
+M  V30 59 C 27.036330 1.889170 19.275051 0
+M  V30 60 C 26.389032 2.563436 18.241837 0
+M  V30 61 C 26.724263 3.892895 17.948398 0
+M  V30 62 O 26.116825 4.650909 16.969010 0
+M  V30 63 C 25.660508 4.021456 15.770711 0
+M  V30 64 C 27.708195 4.531825 18.693828 0
+M  V30 65 C 28.357628 3.861331 19.723073 0
+M  V30 66 H 32.676639 4.225069 13.409372 0
+M  V30 67 H 32.866237 3.797829 11.710516 0
+M  V30 68 H 32.123883 2.654600 12.830943 0
+M  V30 69 H 30.404480 3.843310 11.410879 0
+M  V30 70 H 30.923835 5.389644 12.089872 0
+M  V30 71 H 28.655982 5.425938 11.502542 0
+M  V30 72 H 27.322230 7.911807 13.040468 0
+M  V30 73 H 28.139252 9.994461 13.753160 0
+M  V30 74 H 27.241362 11.363347 13.088795 0
+M  V30 75 H 28.825739 10.962788 12.442414 0
+M  V30 76 H 26.661324 10.239683 7.693481 0
+M  V30 77 H 25.089489 10.648401 8.367207 0
+M  V30 78 H 25.341361 9.064498 7.625654 0
+M  V30 79 H 25.570594 7.309503 9.196092 0
+M  V30 80 H 24.937853 5.448466 13.537936 0
+M  V30 81 H 28.129555 1.392574 15.847589 0
+M  V30 82 H 28.919911 1.782074 14.323769 0
+M  V30 83 H 30.057189 3.567872 16.928154 0
+M  V30 84 H 32.402237 1.875269 17.515756 0
+M  V30 85 H 32.052775 2.539894 19.575020 0
+M  V30 86 H 31.034922 3.881329 19.098437 0
+M  V30 87 H 33.060483 4.678906 20.239980 0
+M  V30 88 H 34.085025 3.893598 19.087588 0
+M  V30 89 H 33.961743 6.225219 18.442490 0
+M  V30 90 H 34.175104 5.400814 16.434247 0
+M  V30 91 H 32.534396 5.708191 16.111562 0
+M  V30 92 H 34.045961 3.142799 16.746857 0
+M  V30 93 H 32.898552 3.372485 15.494697 0
+M  V30 94 H 31.913340 7.484739 17.893245 0
+M  V30 95 H 30.926299 6.064309 18.142626 0
+M  V30 96 H 29.492870 6.856320 19.877295 0
+M  V30 97 H 30.818290 6.697002 22.418932 0
+M  V30 98 H 30.255406 9.370152 21.385070 0
+M  V30 99 H 29.220652 9.072243 22.717326 0
+M  V30 100 H 30.915545 9.316346 24.294078 0
+M  V30 101 H 32.057552 8.282192 23.389571 0
+M  V30 102 H 33.891030 10.885797 21.091104 0
+M  V30 103 H 32.614868 9.713220 20.651258 0
+M  V30 104 H 33.938118 9.212993 21.749476 0
+M  V30 105 H 29.311135 6.461726 24.114453 0
+M  V30 106 H 26.512918 5.872272 23.494132 0
+M  V30 107 H 27.960364 5.749254 26.201782 0
+M  V30 108 H 26.247789 5.622189 25.946718 0
+M  V30 109 H 24.885512 7.646404 25.496221 0
+M  V30 110 H 24.789808 10.138472 25.651157 0
+M  V30 111 H 28.905217 10.412172 26.054493 0
+M  V30 112 H 29.164640 7.934191 25.933011 0
+M  V30 113 H 27.427639 4.142490 21.998111 0
+M  V30 114 H 26.840318 1.585890 22.479230 0
+M  V30 115 H 28.317988 1.633373 23.363701 0
+M  V30 116 H 28.712214 0.804465 21.064889 0
+M  V30 117 H 29.642528 2.215336 21.393055 0
+M  V30 118 H 26.759865 0.871072 19.508055 0
+M  V30 119 H 25.606222 2.052833 17.706058 0
+M  V30 120 H 25.651598 2.932758 15.790408 0
+M  V30 121 H 24.626435 4.327401 15.607290 0
+M  V30 122 H 27.945033 5.560954 18.474210 0
+M  V30 123 H 29.098030 4.379321 20.312502 0
 M  V30 END ATOM
 M  V30 BEGIN BOND
 M  V30 1 1 2 1
 M  V30 2 1 3 2
 M  V30 3 1 4 3
-M  V30 4 1 5 4
-M  V30 5 2 6 5
+M  V30 4 2 5 4
+M  V30 5 1 6 5
 M  V30 6 1 7 6
 M  V30 7 1 8 7
-M  V30 8 1 9 8
-M  V30 9 2 10 9
+M  V30 8 2 9 8
+M  V30 9 1 10 9
 M  V30 10 1 11 10
-M  V30 11 2 12 11
-M  V30 12 2 13 8
-M  V30 13 1 13 12
-M  V30 14 1 14 6
-M  V30 15 2 15 14
-M  V30 16 2 16 4
-M  V30 17 1 16 15
-M  V30 18 1 17 16
-M  V30 19 1 18 17
-M  V30 20 1 19 18
-M  V30 21 2 20 19
-M  V30 22 1 21 19
+M  V30 11 2 12 10
+M  V30 12 1 13 12
+M  V30 13 1 14 12
+M  V30 14 1 15 14
+M  V30 15 1 16 8
+M  V30 16 2 16 14
+M  V30 17 2 17 6
+M  V30 18 1 18 17
+M  V30 19 1 19 4
+M  V30 20 2 19 18
+M  V30 21 1 20 19
+M  V30 22 1 21 20
 M  V30 23 1 22 21
-M  V30 24 1 23 22
-M  V30 25 1 24 23
+M  V30 24 2 23 22
+M  V30 25 1 24 22
 M  V30 26 1 25 24
 M  V30 27 1 26 25
-M  V30 28 1 27 22
-M  V30 29 1 27 26
-M  V30 30 1 28 25
-M  V30 31 1 29 28
-M  V30 32 2 30 29
-M  V30 33 1 31 29
+M  V30 28 1 27 26
+M  V30 29 1 28 27
+M  V30 30 1 29 28
+M  V30 31 1 30 25
+M  V30 32 1 30 29
+M  V30 33 1 31 28
 M  V30 34 1 32 31
-M  V30 35 1 33 32
+M  V30 35 2 33 32
 M  V30 36 1 34 32
-M  V30 37 2 35 34
-M  V30 38 1 36 34
+M  V30 37 1 35 34
+M  V30 38 1 36 35
 M  V30 39 1 37 36
 M  V30 40 1 38 37
 M  V30 41 1 39 38
-M  V30 42 1 40 39
-M  V30 43 2 41 40
-M  V30 44 1 42 41
+M  V30 42 2 40 38
+M  V30 43 2 41 38
+M  V30 44 1 42 35
 M  V30 45 2 43 42
-M  V30 46 2 44 39
-M  V30 47 1 44 43
-M  V30 48 1 45 37
-M  V30 49 2 46 45
-M  V30 50 1 47 45
-M  V30 51 1 48 47
-M  V30 52 1 49 48
-M  V30 53 1 50 49
-M  V30 54 1 51 50
+M  V30 46 1 44 42
+M  V30 47 1 45 44
+M  V30 48 1 46 45
+M  V30 49 1 47 46
+M  V30 50 2 48 47
+M  V30 51 1 49 48
+M  V30 52 2 50 49
+M  V30 53 1 51 50
+M  V30 54 1 52 47
 M  V30 55 2 52 51
-M  V30 56 1 53 52
-M  V30 57 1 54 53
-M  V30 58 1 55 15
-M  V30 59 1 55 54
-M  V30 60 2 56 53
-M  V30 61 2 57 50
-M  V30 62 1 57 56
-M  V30 63 1 58 1
-M  V30 64 1 59 1
-M  V30 65 1 60 1
-M  V30 66 1 61 2
-M  V30 67 1 62 2
-M  V30 68 1 63 5
-M  V30 69 1 64 9
-M  V30 70 1 65 10
-M  V30 71 1 66 11
-M  V30 72 1 67 13
-M  V30 73 1 68 14
-M  V30 74 1 69 18
-M  V30 75 1 70 18
-M  V30 76 1 71 21
-M  V30 77 1 22 72 CFG=1
-M  V30 78 1 73 23
-M  V30 79 1 74 23
-M  V30 80 1 75 24
-M  V30 81 1 76 24
-M  V30 82 1 25 77 CFG=1
-M  V30 83 1 78 26
-M  V30 84 1 79 26
-M  V30 85 1 80 27
-M  V30 86 1 81 27
-M  V30 87 1 82 28
-M  V30 88 1 83 28
-M  V30 89 1 84 31
-M  V30 90 1 32 85 CFG=1
-M  V30 91 1 86 36
-M  V30 92 1 37 87 CFG=3
-M  V30 93 1 88 38
-M  V30 94 1 89 38
-M  V30 95 1 90 40
-M  V30 96 1 91 41
-M  V30 97 1 92 43
-M  V30 98 1 93 44
-M  V30 99 1 94 47
-M  V30 100 1 95 48
-M  V30 101 1 96 48
-M  V30 102 1 97 49
-M  V30 103 1 98 49
-M  V30 104 1 99 51
-M  V30 105 1 100 52
-M  V30 106 1 101 55
-M  V30 107 1 102 55
-M  V30 108 1 103 56
-M  V30 109 1 104 57
-M  V30 110 1 105 12
-M  V30 111 1 106 105
-M  V30 112 1 107 105
-M  V30 113 1 108 105
-M  V30 114 1 109 65
-M  V30 115 1 110 65
-M  V30 116 1 111 65
-M  V30 117 1 112 33
-M  V30 118 1 113 33
-M  V30 119 1 114 33
-M  V30 120 2 115 114
-M  V30 121 1 116 114
-M  V30 122 2 117 114
-M  V30 123 1 118 116
-M  V30 124 1 119 116
-M  V30 125 1 120 116
+M  V30 56 1 53 45
+M  V30 57 2 54 53
+M  V30 58 1 55 53
+M  V30 59 1 56 55
+M  V30 60 1 57 56
+M  V30 61 1 58 57
+M  V30 62 2 59 58
+M  V30 63 1 60 59
+M  V30 64 2 61 60
+M  V30 65 1 62 61
+M  V30 66 1 63 18
+M  V30 67 1 63 62
+M  V30 68 1 64 61
+M  V30 69 1 65 58
+M  V30 70 2 65 64
+M  V30 71 1 66 1
+M  V30 72 1 67 1
+M  V30 73 1 68 1
+M  V30 74 1 69 2
+M  V30 75 1 70 2
+M  V30 76 1 71 5
+M  V30 77 1 72 9
+M  V30 78 1 73 11
+M  V30 79 1 74 11
+M  V30 80 1 75 11
+M  V30 81 1 76 15
+M  V30 82 1 77 15
+M  V30 83 1 78 15
+M  V30 84 1 79 16
+M  V30 85 1 80 17
+M  V30 86 1 81 21
+M  V30 87 1 82 21
+M  V30 88 1 83 24
+M  V30 89 1 25 84 CFG=1
+M  V30 90 1 85 26
+M  V30 91 1 86 26
+M  V30 92 1 87 27
+M  V30 93 1 88 27
+M  V30 94 1 28 89 CFG=1
+M  V30 95 1 90 29
+M  V30 96 1 91 29
+M  V30 97 1 92 30
+M  V30 98 1 93 30
+M  V30 99 1 94 31
+M  V30 100 1 95 31
+M  V30 101 1 96 34
+M  V30 102 1 35 97 CFG=1
+M  V30 103 1 98 36
+M  V30 104 1 99 36
+M  V30 105 1 100 37
+M  V30 106 1 101 37
+M  V30 107 1 102 39
+M  V30 108 1 103 39
+M  V30 109 1 104 39
+M  V30 110 1 105 44
+M  V30 111 1 45 106 CFG=3
+M  V30 112 1 107 46
+M  V30 113 1 108 46
+M  V30 114 1 109 48
+M  V30 115 1 110 49
+M  V30 116 1 111 51
+M  V30 117 1 112 52
+M  V30 118 1 113 55
+M  V30 119 1 114 56
+M  V30 120 1 115 56
+M  V30 121 1 116 57
+M  V30 122 1 117 57
+M  V30 123 1 118 59
+M  V30 124 1 119 60
+M  V30 125 1 120 63
+M  V30 126 1 121 63
+M  V30 127 1 122 64
+M  V30 128 1 123 65
 M  V30 END BOND
 M  V30 END CTAB
 M  END
@@ -20246,10 +20249,10 @@ M  END
 0
 
 >  <i_lp_mmshare_version>  (51) 
-67138
+72125
 
->  <i_m_Source_File_Index>  (51) 
-8
+>  <i_m_source_file_index>  (51) 
+2
 
 >  <i_mpc_Hbond_Acceptors>  (51) 
 11
@@ -20258,82 +20261,85 @@ M  END
 4
 
 >  <i_mpc_Rotatable_Bonds>  (51) 
-8
+9
 
 >  <i_psp_tugalign_N_clashes>  (51) 
 0
 
 >  <i_psp_tugalign_N_fep_mapped>  (51) 
-103
+105
 
 >  <i_psp_tugalign_N_improvements>  (51) 
 2
 
+>  <i_psp_tugalign_lig_i>  (51) 
+1
+
+>  <i_psp_tugalign_nconf_i>  (51) 
+0
+
 >  <b_lp_Chiralities_Consistent>  (51) 
+1
+
+>  <b_m_Mark>  (51) 
 1
 
 >  <b_m_subgroup_collapsed>  (51) 
 0
 
 >  <r_canvas_Mcl-1-BAK_TR-FRET_(µM)>  (51) 
-0.012
+0.0053
+
+>  <r_canvas_Mcl-1-BAK_TR-FRET_(ÂµM)>  (51) 
+0.0053
 
 >  <r_epik_Charging_Adjusted_Penalty>  (51) 
-0
+0.0084935635828493148
 
 >  <r_epik_Ionization_Penalty>  (51) 
-0
+0.0084938680564644216
 
 >  <r_epik_Ionization_Penalty_Charging>  (51) 
 0
 
 >  <r_epik_Ionization_Penalty_Neutral>  (51) 
-0
+0.0084938680564644216
 
 >  <r_epik_State_Penalty>  (51) 
-0
+0.0084935635828493148
 
 >  <r_fepmapper_exp_dG>  (51) 
--10.805952072143555
-
->  <r_fepplus_pred_dg>  (51) 
--9.3599999999999994
-
->  <r_fepplus_pred_dg_error>  (51) 
-0.39000000000000001
+-11.290130615234375
 
 >  <r_lp_Energy>  (51) 
-79.812580999999994
+50.961109999999998
 
 >  <r_lp_tautomer_probability>  (51) 
 1
 
 >  <r_mpc_ALogP>  (51) 
-5.653899999999985
+5.716300000000003
 
 >  <r_mpc_Molecular_Weight>  (51) 
-918.51487000000054
+932.54196000000081
 
 >  <r_mpc_Polar_Surface_Area>  (51) 
-208.72999999999999
+208.72999999999996
 
 >  <r_psp_tugalign_fep_map_ratio>  (51) 
-0.86554621848739499
-
->  <r_psp_tugalign_mcs_ratio>  (51) 
-0.81818181818181801
+0.85365853658536583
 
 >  <r_psp_tugalign_mcs_rmsd>  (51) 
-0.170668185790744
+0.46237458351035465
 
 >  <r_user_Mcl-1-BAK_TR-FRET_(uM)>  (51) 
-0.012
+0.0053
 
 >  <s_epik_cmdline>  (51) 
 J2VwaWtfcHl0aG9uJywgJy1waCcsICc3LjAnLCAnLXRuJywgJzgnLCAnLW1hJywgJzUwMCcsICctaW1hZScsICc8aW5maWxlLm1hZT4nLCAnLW9tYWUnLCAnPG91dGZpbGUubWFlPic=
 
 >  <s_epik_input>  (51) 
-RkMoRikoRiljKFtjSF0xKVtjSF1bY0hdW2NIXWMxT2MoW2NIXTIpW2NIXWMoT1tDSDJdW0NIM10pYyhjMjMpT1tDSDJdQyg9TylbTkhdW0NAQEhdNFtDSDJdW0NIMl1bQ0BASF0oW0NIMl1bQ0gyXTQpW0NIMl1DKD1PKVtOSF1bQ0BASF0oYzVbY0hdW2NIXVtjSF1bY0hdW2NIXTUpQyg9TylbTkhdW0NASF0oW0NIMl1jNltjSF1bY0hdW2NIXVtjSF1bY0hdNilDKD1PKVtOSF1bQ0gyXVtDSDJdYzdbY0hdW2NIXWMoT1tDSDJdMylbY0hdW2NIXTc=
+W0NIM11jKFtjSF0xKWMoQ2wpYyhbQ0gzXSlbY0hdYzFPYyhbY0hdMilbY0hdYyhPW0NIMl1bQ0gzXSljKGMyMylPW0NIMl1DKD1PKVtOSF1bQ0BASF00W0NIMl1bQ0gyXVtDQEBIXShbQ0gyXVtDSDJdNClbQ0gyXUMoPU8pW05IXVtDQEBIXShbQ0gyXVtDSDJdUyg9TykoPU8pW0NIM10pQyg9TylbTkhdW0NASF0oW0NIMl1jNVtjSF1bY0hdbltjSF1bY0hdNSlDKD1PKVtOSF1bQ0gyXVtDSDJdYzZbY0hdW2NIXWMoT1tDSDJdMylbY0hdW2NIXTY=
 
 >  <s_ff_OPLSVersion>  (51) 
 OPLS4
@@ -20342,34 +20348,40 @@ OPLS4
 S-OPLS
 
 >  <s_lp_Variant>  (51) 
-cpd_45-1
+cpd-51_SMILES-1
 
 >  <s_m_Source_File>  (51) 
-mcl1_set2_16cpds.maegz
+align_ligands_MCL1_cpd26_cpd51-out.maegz
 
 >  <s_m_Source_Path>  (51) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/combined-data_all-sys/all_systems/triplicate_runs_v25-4/mcl1/fep_runs/cross-state_analysis/cpd26_cpd51_revisit/align_ligands_MCL1_cpd26_cpd51
 
 >  <s_m_entry_id>  (51) 
-8525
+1278
 
 >  <s_m_entry_name>  (51) 
-mcl1_data..45
+entry
 
 >  <s_m_job_name>  (51) 
-ligprep_mcl1_macs
+align_ligands_MCL1_cpd26_cpd51
+
+>  <s_m_source_file>  (51) 
+ligprep_cpd26_51.maegz
 
 >  <s_m_subgroup_title>  (51) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (51) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (51) 
-CCOc1cc(Oc2cc(C)c(Cl)c(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](CS(C)(=O)=O)C(=O)N[C@H](Cc1ccncc1)C(=O)NCCc1ccc(cc1)OC2
+CCOc1cc(Oc2cc(C)c(Cl)c(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](CCS(C)(=O)=O)C(=O)N[C@H](Cc1ccncc1)C(=O)NCCc1ccc(cc1)OC2
+
+>  <s_psp_EXECUTE_FUNCTION_Input_Structure_Hash>  (51) 
+f7b32500eaa9e369d815bfe0e7f46b606a461fad22c976a52bcebc75
 
 >  <s_psp_tugalign_SMARTS>  (51) 
-[#6](=[#8])(-[#6](-[#6]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1)-[#7]-[#6](=[#8])-[#6](-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1)-[#7]-[#6](=[#8])-[#6]-[#6]1-[#6]-[#6]-[#6](-[#6]-[#6]-1)-[#7]-[#6](-[#6]-[#8]-[#6]1:[#6](-[#6]):[#6]:[#6]:[#6]:[#6]:1-[#8]-[#6]-[#6])=[#8])-[#7]-[#6]-[#6]-[#6]1:[#6]:[#6]:[#6]:[#6]:[#6]:1
+[#6](-[#6])-[#8]-[#6]1:[#6]:[#6]:[#6]:[#6]2:[#6]:1-[#8]-[#6]-[#6](=[#8])-[#7]-[#6]1-[#6]-[#6]-[#6](-[#6]-[#6]-1)-[#6]-[#6](=[#8])-[#7]-[#6](-[#6]-[#6]-[#16](=[#8])(-[#6])=[#8])-[#6](-[#7]-[#6](-[#6](-[#7]-[#6]-[#6]-[#6]1:[#6]:[#6]:[#6](-[#8]-[#6]-2):[#6]:[#6]:1)=[#8])-[#6]-[#6](:[#6]:[#6]):[#6]:[#6])=[#8]
 
 $$$$
 cpd_52
@@ -20628,14 +20640,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (52) 
 0
 
->  <i_f3d_flags>  (52) 
-0
-
 >  <i_lp_mmshare_version>  (52) 
 67138
 
 >  <i_m_Source_File_Index>  (52) 
-53
+52
 
 >  <i_mpc_Hbond_Acceptors>  (52) 
 8
@@ -20654,6 +20663,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (52) 
 2
+
+>  <i_f3d_flags>  (52) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (52) 
 1
@@ -20731,13 +20743,13 @@ S-OPLS
 cpd_52-1
 
 >  <s_m_Source_File>  (52) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (52) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (52) 
-8495
+1269
 
 >  <s_m_entry_name>  (52) 
 mcl1_data..52
@@ -20746,10 +20758,10 @@ mcl1_data..52
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (52) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (52) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (52) 
 CCOc1cc(Oc2cc(C)c(Cl)c(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N1CCC[C@@H]1C(=O)NCCc1ccc(cc1)OC2
@@ -21028,14 +21040,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (53) 
 0
 
->  <i_f3d_flags>  (53) 
-0
-
 >  <i_lp_mmshare_version>  (53) 
 67138
 
 >  <i_m_Source_File_Index>  (53) 
-54
+53
 
 >  <i_mpc_Hbond_Acceptors>  (53) 
 7
@@ -21054,6 +21063,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (53) 
 2
+
+>  <i_f3d_flags>  (53) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (53) 
 1
@@ -21131,13 +21143,13 @@ S-OPLS
 cpd_53-1
 
 >  <s_m_Source_File>  (53) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (53) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (53) 
-8496
+1270
 
 >  <s_m_entry_name>  (53) 
 mcl1_data..53
@@ -21146,10 +21158,10 @@ mcl1_data..53
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (53) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (53) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (53) 
 CCOc1cc(Oc2cc(C)cc(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)NC2
@@ -21428,14 +21440,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (54) 
 0
 
->  <i_f3d_flags>  (54) 
-0
-
 >  <i_lp_mmshare_version>  (54) 
 67138
 
 >  <i_m_Source_File_Index>  (54) 
-10
+54
 
 >  <i_mpc_Hbond_Acceptors>  (54) 
 7
@@ -21454,6 +21463,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (54) 
 2
+
+>  <i_f3d_flags>  (54) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (54) 
 1
@@ -21531,13 +21543,13 @@ S-OPLS
 cpd_54-1
 
 >  <s_m_Source_File>  (54) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (54) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (54) 
-8521
+1271
 
 >  <s_m_entry_name>  (54) 
 mcl1_data..54
@@ -21546,10 +21558,10 @@ mcl1_data..54
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (54) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (54) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (54) 
 CCOc1cc(Oc2cc(C)c(Cl)c(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)NCCc1ccc(cc1)NC2
@@ -21834,14 +21846,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (55) 
 1
 
->  <i_f3d_flags>  (55) 
-0
-
 >  <i_lp_mmshare_version>  (55) 
 67138
 
 >  <i_m_Source_File_Index>  (55) 
-56
+55
 
 >  <i_mpc_Hbond_Acceptors>  (55) 
 7
@@ -21860,6 +21869,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (55) 
 2
+
+>  <i_f3d_flags>  (55) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (55) 
 1
@@ -21937,13 +21949,13 @@ S-OPLS
 cpd_55-1
 
 >  <s_m_Source_File>  (55) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (55) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (55) 
-8497
+1272
 
 >  <s_m_entry_name>  (55) 
 mcl1_data..55
@@ -21952,10 +21964,10 @@ mcl1_data..55
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (55) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (55) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (55) 
 CCOc1cc(Oc2cc(C)cc(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)N[C@H](C(=O)O)Cc1ccc(cc1)NC2
@@ -22240,14 +22252,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (56) 
 1
 
->  <i_f3d_flags>  (56) 
-0
-
 >  <i_lp_mmshare_version>  (56) 
 69130
 
 >  <i_m_Source_File_Index>  (56) 
-29
+56
 
 >  <i_mpc_Hbond_Acceptors>  (56) 
 7
@@ -22266,6 +22275,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (56) 
 2
+
+>  <i_f3d_flags>  (56) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (56) 
 1
@@ -22376,13 +22388,13 @@ OPLS_2005
 cpd_56-1
 
 >  <s_m_Source_File>  (56) 
-mcl1_pose_pred_out.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (56) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/Mcl-1_macs/modeling/fep_runs/fep_pose_builder
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (56) 
-8501
+1273
 
 >  <s_m_entry_name>  (56) 
 mcl1_data..56
@@ -22391,10 +22403,10 @@ mcl1_data..56
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (56) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (56) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (56) 
 CCOc1cc(Oc2cc(C)c(Cl)c(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1ccccc1)C(=O)N[C@H](C(=O)O)Cc1ccc(cc1)NC2
@@ -22684,14 +22696,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (57) 
 1
 
->  <i_f3d_flags>  (57) 
-0
-
 >  <i_lp_mmshare_version>  (57) 
 67138
 
 >  <i_m_Source_File_Index>  (57) 
-58
+57
 
 >  <i_mpc_Hbond_Acceptors>  (57) 
 9
@@ -22710,6 +22719,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (57) 
 2
+
+>  <i_f3d_flags>  (57) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (57) 
 1
@@ -22787,13 +22799,13 @@ S-OPLS
 cpd_57-1
 
 >  <s_m_Source_File>  (57) 
-mcl1_macs_fullset_ordered.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (57) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (57) 
-8498
+1274
 
 >  <s_m_entry_name>  (57) 
 mcl1_data..57
@@ -22802,10 +22814,10 @@ mcl1_data..57
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (57) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (57) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (57) 
 CCOc1cc(Oc2cc(C)c(Cl)c(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](Cc1cccnc1)C(=O)N[C@H](C(=O)O)Cc1ccc(cc1)OC2
@@ -23089,14 +23101,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (58) 
 1
 
->  <i_f3d_flags>  (58) 
-0
-
 >  <i_lp_mmshare_version>  (58) 
 69130
 
 >  <i_m_Source_File_Index>  (58) 
-12
+58
 
 >  <i_mpc_Hbond_Acceptors>  (58) 
 9
@@ -23121,6 +23130,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (58) 
 2
+
+>  <i_f3d_flags>  (58) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (58) 
 1
@@ -23315,13 +23327,13 @@ OPLS_2005
 cpd_58_57R-1
 
 >  <s_m_Source_File>  (58) 
-mcl1_set2_16cpds.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (58) 
-/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/systems/Mcl-1/modeling/fep_runs/large_cpd_series/revisit_mcl1-data_Oct2025
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (58) 
-8522
+1275
 
 >  <s_m_entry_name>  (58) 
 mcl1_data..58
@@ -23330,10 +23342,10 @@ mcl1_data..58
 mcl1_macs_align_outliers
 
 >  <s_m_subgroup_title>  (58) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (58) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (58) 
 CCOc1cc(Oc2cc(C)c(Cl)c(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](CC(C)C)C(=O)N[C@H](Cc1cccnc1)C(=O)N[C@@H](C(=O)O)Cc1ccc(cc1)OC2
@@ -23626,14 +23638,11 @@ M  END
 >  <i_epik_Tot_abs_Q>  (59) 
 1
 
->  <i_f3d_flags>  (59) 
-0
-
 >  <i_lp_mmshare_version>  (59) 
 67138
 
 >  <i_m_Source_File_Index>  (59) 
-73
+59
 
 >  <i_mpc_Hbond_Acceptors>  (59) 
 9
@@ -23652,6 +23661,9 @@ M  END
 
 >  <i_psp_tugalign_N_improvements>  (59) 
 2
+
+>  <i_f3d_flags>  (59) 
+0
 
 >  <b_lp_Chiralities_Consistent>  (59) 
 1
@@ -23729,13 +23741,13 @@ S-OPLS
 cpd_59-1
 
 >  <s_m_Source_File>  (59) 
-ligands_to_align_aligned2_reference_ligand.maegz
+mcl1_ligands.sdf
 
 >  <s_m_Source_Path>  (59) 
-/Users/awoonor/Desktop/projects/Biologics_focus_grp/peptide_working_group/Mcl-1_macs/modeling/align_mcl1_ligands_on_8qso
+/Users/awoonor/Desktop/projects/focus_groups/peptide_working_group/manuscript/data/3D-structures/for_github/inputs/MCL1
 
 >  <s_m_entry_id>  (59) 
-8499
+1276
 
 >  <s_m_entry_name>  (59) 
 mcl1_data..59
@@ -23744,10 +23756,10 @@ mcl1_data..59
 ligprep_mcl1_macs
 
 >  <s_m_subgroup_title>  (59) 
-MCs_data->MCL1_sys->FEP+: fep_mcl1-8qso_59cpds_final_14March2026_grps-corr.fmp
+MCL-1_ligands
 
 >  <s_m_subgroupid>  (59) 
-MCc_data->MCL1_sys->7904675088
+MCL-1_ligands
 
 >  <s_mpc_SMILES>  (59) 
 CCOc1cc(Oc2cc(C)c(Cl)c(C)c2)cc2c1OCC(=O)N[C@H]1CC[C@H](CC1)CC(=O)N[C@@H](c1ccccc1)C(=O)N[C@H](Cc1cccnc1)C(=O)N[C@H](C(=O)O)Cc1ccc(cc1)OC2
