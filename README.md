@@ -15,7 +15,7 @@ Rational design of macrocycles is complicated by restricted conformational entro
 * **Cyclin A/B**
 
 ### Repository Contents
-* `inputs/target_name`: Contains the protein receptor structures (`.pdb`) and the aligned macrocyclic ligands (`.sdf`).
+* `inputs/target_name`: Contains the protein receptor structures (`.pdb`), the aligned macrocyclic ligands (`.sdf`) and the force field parameters (`.opls`).
 * `data_summary.csv`: The master file containing all experimental affinities, FEP+ predicted absolute affinities and calculated errors.
 
 ### Computational Details
